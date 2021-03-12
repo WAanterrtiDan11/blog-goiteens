@@ -1,0 +1,14 @@
+header {
+    background:#7c8082;
+    padding-top: 50px;
+    padding-bottom: 35px;
+}ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
